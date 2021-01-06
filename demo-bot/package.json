@@ -19,7 +19,8 @@
         "botbuilder": "~4.9.0",
         "botbuilder-dialogs": "^4.9.2",
         "dotenv": "^8.2.0",
-        "restify": "~8.5.1"
+        "restify": "~8.5.1",
+        "axios":">=0.21.1"
     },
     "devDependencies": {
         "eslint": "^7.0.0",
